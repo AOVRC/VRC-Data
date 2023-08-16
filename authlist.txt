@@ -4,7 +4,7 @@
 # display name : permissions level
 
 # Permissions level ranges from 0 to 255.  Items and events can be locked behind different permissions levels, with only users with that permissions level or greater being able to use them.
-# Multiple users can have the same permissions level, there is no limit to the number of names that can be in this file.
+# Multiple users can have the same permissions level, and there is no hard limit to the number of user entries that can be in this file.
 # The world host can have their permissions level hard-coded by the world if the author chooses to do so, which will override anything in this file.
 
 
