@@ -18,4 +18,60 @@ Austen_ : 3
 ≻Spacy≺ : 2 # Most approachable mod
 
 # Guides/Event Coordinators
+-beepboop- : 1
+≺River≻ : 1
+Aratheon : 1
+archdeco : 1
+auxee : 1
+Bio_Cyan : 1
+BL Dragon : 1
+Bloviator : 1
+BulletMagnet009 : 1
+Carl Pagan : 1
+Ceres101 : 1
+ChromaCymbidium : 1
+Dalek Supreme : 1
+Dangleberry : 1
+Dave Dangers : 1
+Den Antares : 1
+dodiebug : 1
+EMBEЯ : 1
+Fistroman : 1
+FoxiwithMoxi : 1
+Gegenschein : 1
+gouphee : 1
+Hetarikia : 1
+It is Luna : 1
+Jere. : 1
+Jim Morris : 1
+Jinxiesm : 1
+Kadachii : 1
+Kelaruj : 1
+Kyyo_ : 1
+Lance Mallow : 1
+Lefty : 1
+LynxofCHAOS: : 1
+Lyper : 1
 MockingOwl : 1
+MrPringlez : 1
+nico vrc : 1
+NigelOOSD : 1
+Nitey` : 1
+NoriWuff : 1
+NS_Phoenix : 1
+Onalynn : 1
+Ondanya : 1
+Space Cake : 1
+Spartan129 : 1
+Spiderwoman : 1
+SStarburst3 : 1
+TheWhiteCrayon : 1
+ThistleBunny : 1
+Thurky : 1
+toddonfire : 1
+TravelingTwila : 1
+V1X3L : 1
+Voopps : 1
+Vulcure : 1
+xChillphil : 1
+Zеkk : 1
