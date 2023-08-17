@@ -12,8 +12,15 @@
 Icyvarix : 255
 
 # Mods and Admins
-Austen_ : 3 
 ≻Spacy≺ : 3 # Most approachable mod
+Austen_ : 3 
+BulletMagnet009 : 3
+Carl Pagan : 3
+Dangleberry : 3
+Dave Dangers : 3
+FoxiwithMoxi : 3
+Kadachii : 3
+Nitey` : 3
 
 # Guides/Event Coordinators
 -beepboop- : 1
@@ -24,18 +31,13 @@ auxee : 1
 Bio_Cyan : 1
 BL Dragon : 1
 Bloviator : 1
-BulletMagnet009 : 1
-Carl Pagan : 1
 Ceres101 : 1
 ChromaCymbidium : 1
 Dalek Supreme : 1
-Dangleberry : 1
-Dave Dangers : 1
 Den Antares : 1
 dodiebug : 1
 EMBEЯ : 1
 Fistroman : 1
-FoxiwithMoxi : 1
 Gegenschein : 1
 gouphee : 1
 hetarikia : 1
@@ -43,7 +45,6 @@ It is Luna : 1
 Jere. : 1
 Jim Morris : 1
 Jinxiesm : 1
-Kadachii : 1
 Kelaruj : 1
 Kyyo_ : 1
 Lance Mallow : 1
@@ -54,7 +55,6 @@ MockingOwl : 1
 MrPringlez : 1
 nico vrc : 1
 NigelOOSD : 1
-Nitey` : 1
 NoriWuff : 1
 NS_Phoenix : 1
 Onalynn : 1
