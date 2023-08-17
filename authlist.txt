@@ -40,7 +40,7 @@ Fistroman : 1
 FoxiwithMoxi : 1
 Gegenschein : 1
 gouphee : 1
-Hetarikia : 1
+hetarikia : 1
 It is Luna : 1
 Jere. : 1
 Jim Morris : 1
@@ -50,7 +50,7 @@ Kelaruj : 1
 Kyyo_ : 1
 Lance Mallow : 1
 Lefty : 1
-LynxofCHAOS: : 1
+LynxofCHAOS : 1
 Lyper : 1
 MockingOwl : 1
 MrPringlez : 1
