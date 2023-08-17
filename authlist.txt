@@ -11,11 +11,9 @@
 # Test Users (I gotta be able to use the stuff to demonstrate/test it, feel free to adjust this once you feel this has been done to an acceptable degree.)
 Icyvarix : 255
 
-# Admins
+# Mods and Admins
 Austen_ : 3 
-
-# Mods
-≻Spacy≺ : 2 # Most approachable mod
+≻Spacy≺ : 3 # Most approachable mod
 
 # Guides/Event Coordinators
 -beepboop- : 1
