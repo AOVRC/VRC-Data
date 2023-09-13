@@ -21,6 +21,8 @@ Dave Dangers : 3
 FoxiwithMoxi : 3
 Kadachii : 3
 Nitey` : 3
+ThistleBunny : 3
+Vulcure : 3
 
 # Guides/Event Coordinators
 -beepboop- : 1
@@ -53,7 +55,6 @@ LynxofCHAOS : 1
 Lyper : 1
 MockingOwl : 1
 MrPringlez : 1
-nico vrc : 1
 NigelOOSD : 1
 NoriWuff : 1
 NS_Phoenix : 1
@@ -63,12 +64,10 @@ Spartan129 : 1
 Spiderwoman : 1
 SStarburst3 : 1
 TheWhiteCrayon : 1
-ThistleBunny : 1
 Thurky : 1
 toddonfire : 1
 TravelingTwila : 1
 V1X3L : 1
 Voopps : 1
-Vulcure : 1
 xChillphil : 1
 Zеkk : 1
