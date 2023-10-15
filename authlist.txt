@@ -30,7 +30,7 @@ Vulcure : 3
 Aratheon : 1
 archdeco : 1
 auxee : 1
-Bio_Cyan : 1
+Bio Cyan : 1
 BL Dragon : 1
 Bloviator : 1
 Ceres101 : 1
