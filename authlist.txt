@@ -25,7 +25,6 @@ ThistleBunny : 3
 Vulcure : 3
 
 # Guides/Event Coordinators
--beepboop- : 1
 -Rexrover- : 1
 ≺River≻ : 1
 ~Tiger~ : 1
@@ -34,7 +33,6 @@ archdeco : 1
 auxee : 1
 Bio Cyan : 1
 BL Dragon : 1
-Bloviator : 1
 buddhapesto : 1
 Ceres101 : 1
 ChromaCymbidium : 1
@@ -51,10 +49,8 @@ Jere. : 1
 Jim Morris : 1
 Jinxiesm : 1
 Kyyo_ : 1
-Lance Mallow : 1
 lefty7283 : 1
 LemonadeLyric : 1
-LynxofCHAOS : 1
 Lyper : 1
 MockingOwl : 1
 MrPringlez : 1
@@ -64,11 +60,7 @@ Nullcasting : 1
 onalynn : 1
 Phantom-94 : 1
 RoyalJoJo : 1
-Spartan129 : 1
-Spiderwoman : 1
 SStarburst3 : 1
 TheWhiteCrayon : 1
-toddonfire : 1
-V1X3L : 1
 xChillphil : 1
 Zеkk : 1
