@@ -31,7 +31,6 @@ Vulcure : 3
 Aratheon : 1
 archdeco : 1
 Bio Cyan : 1
-BL Dragon : 1
 buddhapesto : 1
 Ceres101 : 1
 ChromaCymbidium : 1
