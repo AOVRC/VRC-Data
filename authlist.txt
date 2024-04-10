@@ -30,7 +30,6 @@ Vulcure : 3
 ~Tiger~ : 1
 Aratheon : 1
 archdeco : 1
-auxee : 1
 Bio Cyan : 1
 BL Dragon : 1
 buddhapesto : 1
@@ -51,6 +50,7 @@ Jinxiesm : 1
 Kyyo_ : 1
 lefty7283 : 1
 LemonadeLyric : 1
+louisacar : 1
 Lyper : 1
 MockingOwl : 1
 MrPringlez : 1
