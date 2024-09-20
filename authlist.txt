@@ -31,7 +31,6 @@ Vulcure : 3
 ~Tiger~ : 1
 Aratheon : 1
 archdeco : 1
-Bigtaurus : 1
 Bio Cyan : 1
 buddhapesto : 1
 Ceres101 : 1
@@ -43,7 +42,6 @@ Den Antares : 1
 EMBEЯ : 1
 Gegenschein : 1
 Gogglestheref : 1
-rikia_ : 1
 imrayman : 1
 Jere. : 1
 Jinxiesm : 1
