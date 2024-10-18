@@ -25,9 +25,7 @@ ThistleBunny : 3
 Vulcure : 3
 
 # Guides/Event Coordinators
--Rexrover- : 1
 ≺River≻ : 1
-~Lyper~ : 1
 ~Tiger~ : 1
 Aratheon : 1
 archdeco : 1
@@ -44,10 +42,8 @@ Gegenschein : 1
 Gogglestheref : 1
 imrayman : 1
 Jere. : 1
-Jinxiesm : 1
 lefty7283 : 1
 LemonadeLyric : 1
-louisacar : 1
 ʟ ᴏ ɪ ᴅ : 1
 MockingOwl : 1
 MonsterPlaza : 1
