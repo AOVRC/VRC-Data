@@ -25,7 +25,6 @@ Vulcure : 3
 Bread Lady : 3
 
 # Guides/Event Coordinators
-_GOJO : 1
 -Nakuri- : 1
 ≺River≻ : 1
 ~Lyper~ : 1
