@@ -14,11 +14,13 @@ Icyvarix : 255
 # Mods and Admins
 ≻Spacy≺ : 3 # Most approachable mod
 Austen_ : 3 
-BulletMagnet009 : 3
+Benzination : 3
 Carl Pagan : 3
+ChromaCymbidium : 3
 Dangleberry : 3
+Dave Dangers : 3
 FoxiwithMoxi : 3
-Kadachii : 3
+Jere. : 3
 MockingOwl : 3
 MrPringlez : 3
 RoyalJoJo : 3
@@ -35,14 +37,14 @@ Alex_Fox2040 : 1
 Alia_Atreides : 1
 archdeco : 1
 ArmyAnime_15 : 1
+AznManDown : 1
 BeetleSolid2238 : 1
-Benzination : 1
 Bio Cyan : 1
-Blue Magician : 1
 buddhapesto : 1
 Bugchowഒ : 1
+BulletMagnet009 : 1
+Bunny_Eden : 1
 Ceres101 : 1
-ChromaCymbidium : 1
 cmdrbob : 1
 CrimsonRose_ : 1
 deathofcheese : 1
@@ -54,22 +56,25 @@ Epsilon-delta : 1
 Gegenschein : 1
 Gogglestheref : 1
 ItsTaps : 1
-Jere. : 1
 JoeyLoser : 1
 JudeAE : 1
 lefty7283 : 1
 LemonadeLyric : 1
 LokiTheSalandit : 1
+mondomania : 1
 MudledWhiteMage : 1
 MylaDaWamfer : 1
 Nullcasting : 1
 onalynn : 1
+Oshii_ : 1
 Phoni67 : 1
 pink_batman12 : 1
+Rain Yiwama : 1
 rayman_ : 1
 RedAzuki : 1
 Reigel_ : 1
 Sailor Goosie : 1
+Silver Pulse : 1
 Spectremint : 1
 SStarburst3 : 1
 Stacker_ : 1
