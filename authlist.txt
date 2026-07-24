@@ -38,6 +38,7 @@ ArmyAnime_15 : 1
 AznManDown : 1
 BeetleSolid2238 : 1
 Bio Cyan : 1
+B1ackJ4ckX : 1
 buddhapesto : 1
 Bugchowഒ : 1
 BulletMagnet009 : 1
@@ -71,7 +72,6 @@ Rain Yiwama : 1
 RedAzuki : 1
 Reigel_ : 1
 Sailor Goosie : 1
-Silver Pulse : 1
 Spectremint : 1
 SStarburst3 : 1
 Stacker_ : 1
